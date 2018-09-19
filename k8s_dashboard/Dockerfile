@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.5
+FROM k8s.gcr.iok8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
 MAINTAINER Jason.lui <piml.lui@gmail.com>
